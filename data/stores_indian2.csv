@@ -1,0 +1,156 @@
+StoreID,StoreName,Address,City,State,Phone,Hours
+1,"Raval, Date and Ray Store","422, Thaman Ganj",Jorhat,Uttarakhand,-4126455835,Mon-Fri 10am-7pm; Sat 10am-6pm
+2,Madan-Butala Store,"12/12, Dara Circle",Tumkur,Nagaland,-6903974566,Mon-Fri 10am-7pm; Sat 10am-6pm
+3,Bhatnagar Inc Store,"H.No. 51
+Seshadri Marg",Gorakhpur,Meghalaya,-1748152386,Mon-Fri 10am-7pm; Sat 10am-6pm
+4,"Chakrabarti, Master and Venkatesh Store","H.No. 90
+Seth Nagar",Karnal,Haryana,-9.18515E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+5,Sethi LLC Store,"H.No. 53
+Setty Ganj",Sangli-Miraj & Kupwad,Haryana,-9.153E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+6,Bali-Raj Store,"H.No. 14
+Arya",Gangtok,Uttarakhand,-6254671395,Mon-Fri 10am-7pm; Sat 10am-6pm
+7,Srinivas Ltd Store,"241
+Chadha Marg",Sonipat,Rajasthan,-3504111463,Mon-Fri 10am-7pm; Sat 10am-6pm
+8,"Vora, Deshmukh and Gupta Store","H.No. 800, Ratti",Kakinada,Chhattisgarh,-9.17111E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+9,Halder PLC Store,"58
+Chada Zila",Amroha,Tamil Nadu,-9.15356E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+10,Swamy Group Store,"24/72, Bal Nagar",Bardhaman,Tamil Nadu,-8124900503,Mon-Fri 10am-7pm; Sat 10am-6pm
+11,Sarkar Group Store,"75/76
+Khare Zila",Nanded,Uttar Pradesh,-3775965779,Mon-Fri 10am-7pm; Sat 10am-6pm
+12,Manda Ltd Store,"89/01, Garg Nagar",Sambalpur,Arunachal Pradesh,-9.16505E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+13,"Vyas, Kalita and Gour Store","22, Savant",Machilipatnam,Mizoram,-9.18857E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+14,Goel Ltd Store,"40/58
+Shetty Road",Barasat,West Bengal,-5062641382,Mon-Fri 10am-7pm; Sat 10am-6pm
+15,"Sandhu, Bhatt and Bakshi Store","03/914, Hayer Ganj",Rewa,Arunachal Pradesh,-5830208919,Mon-Fri 10am-7pm; Sat 10am-6pm
+16,Mammen-Chaudhuri Store,"10/52, Sura Chowk",Srikakulam,Tamil Nadu,-6297326567,Mon-Fri 10am-7pm; Sat 10am-6pm
+17,"Bassi, Brar and Thakkar Store","H.No. 46, Ghose Circle",Giridih,Haryana,-8388017455,Mon-Fri 10am-7pm; Sat 10am-6pm
+18,Khurana Group Store,"21, Deep Marg",Pali,Mizoram,-7866314204,Mon-Fri 10am-7pm; Sat 10am-6pm
+19,Chowdhury Group Store,"35/264
+Setty Circle",Patiala,Gujarat,-9.10241E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+20,Mammen Ltd Store,"H.No. 32
+Sachdev Marg",Sambhal,Bihar,-3483191182,Mon-Fri 10am-7pm; Sat 10am-6pm
+21,Edwin-Bal Store,"05
+Bora Zila",Cuttack,Telangana,-9.15837E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+22,"Lad, Comar and Kaur Store","654, Bawa Chowk",Miryalaguda,Tamil Nadu,-9.13942E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+23,Dugal-Dass Store,"79/715, Rattan Nagar",Kamarhati,Nagaland,-9.16797E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+24,Sura Ltd Store,"568
+Sawhney Chowk",Serampore,Himachal Pradesh,-9.19416E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+25,"Rajan, Varma and Gole Store","560, Rege Path",Bhubaneswar,Arunachal Pradesh,-6315792584,Mon-Fri 10am-7pm; Sat 10am-6pm
+26,Kamdar-Ramachandran Store,"11/410
+Bali Road",Pune,Sikkim,-6921427693,Mon-Fri 10am-7pm; Sat 10am-6pm
+27,Bala Inc Store,"65/32
+Doshi",Tenali,Rajasthan,-7394186252,Mon-Fri 10am-7pm; Sat 10am-6pm
+28,Madan PLC Store,"H.No. 594, Sachar Road",Chapra,Odisha,-8001116506,Mon-Fri 10am-7pm; Sat 10am-6pm
+29,"Bhat, Gupta and Raju Store","H.No. 82
+Bahri Road",Begusarai,Uttarakhand,-2519581213,Mon-Fri 10am-7pm; Sat 10am-6pm
+30,"Kibe, Sachar and Gulati Store","34/968, Sagar Path",Madurai,Manipur,-4877541501,Mon-Fri 10am-7pm; Sat 10am-6pm
+31,Dewan Inc Store,"H.No. 51, Behl Path",Bhind,Andhra Pradesh,-5529046314,Mon-Fri 10am-7pm; Sat 10am-6pm
+32,Gaba LLC Store,"H.No. 34, Subramanian Ganj",Jabalpur,Jharkhand,-471336713,Mon-Fri 10am-7pm; Sat 10am-6pm
+33,Kade-Raman Store,"H.No. 647, Soni Road",Jalna,Gujarat,-1891465468,Mon-Fri 10am-7pm; Sat 10am-6pm
+34,"Reddy, Raval and Rout Store","H.No. 99
+Keer Zila",Tumkur,Madhya Pradesh,-4662331504,Mon-Fri 10am-7pm; Sat 10am-6pm
+35,"Ben, Sur and Shankar Store","86
+Deol Nagar",Solapur,Andhra Pradesh,-1746542841,Mon-Fri 10am-7pm; Sat 10am-6pm
+36,Andra-Dubey Store,"97/688, Tak",Firozabad,Sikkim,-685243499,Mon-Fri 10am-7pm; Sat 10am-6pm
+37,Dada-Krishnamurthy Store,"011, Korpal Street",Latur,Goa,-1069963887,Mon-Fri 10am-7pm; Sat 10am-6pm
+38,Ghosh-Thakur Store,"02/92
+Dixit Path",Davanagere,Uttarakhand,-6298382846,Mon-Fri 10am-7pm; Sat 10am-6pm
+39,Ram-Keer Store,"17
+Bedi Street",Tiruchirappalli,Gujarat,-9.14805E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+40,Mandal-Krish Store,"26/227, Taneja Street",Begusarai,Tripura,-149782120,Mon-Fri 10am-7pm; Sat 10am-6pm
+41,Thakur-Sankaran Store,"24
+Lad Ganj",Mumbai,Kerala,-9.1199E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+42,Kashyap-Sunder Store,"H.No. 526, Barad Road",Suryapet,Odisha,-9.15372E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+43,Taneja and Sons Store,"H.No. 97
+Salvi Chowk",Pondicherry,Uttar Pradesh,-8047225804,Mon-Fri 10am-7pm; Sat 10am-6pm
+44,"Hayre, Sule and Dixit Store","461, Lad Road",Unnao,Nagaland,-9.19385E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+45,Saxena PLC Store,"H.No. 12
+Chahal Circle",Kota,Goa,-5233903797,Mon-Fri 10am-7pm; Sat 10am-6pm
+46,Kakar Ltd Store,"H.No. 843
+Vig",Ahmedabad,Jharkhand,-6831353522,Mon-Fri 10am-7pm; Sat 10am-6pm
+47,"Kakar, Kaul and Chawla Store","306
+Sen Zila",Thiruvananthapuram,Tripura,-5898547359,Mon-Fri 10am-7pm; Sat 10am-6pm
+48,Ghosh-Sen Store,"47
+Gopal Zila",Ratlam,Andhra Pradesh,-9.14804E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+49,Tripathi-Anne Store,"03/86, Gulati Street",Howrah,Andhra Pradesh,-6519969762,Mon-Fri 10am-7pm; Sat 10am-6pm
+50,Konda Ltd Store,"H.No. 74, Ramanathan",Mau,West Bengal,-444037709,Mon-Fri 10am-7pm; Sat 10am-6pm
+51,"Deshpande, Sunder and Swaminathan Store","H.No. 19
+Mann",Nagpur,Himachal Pradesh,-7876578497,Mon-Fri 10am-7pm; Sat 10am-6pm
+52,"Sandhu, Rout and Kapadia Store","66/16
+Bhagat Marg",Danapur,Karnataka,-3706211383,Mon-Fri 10am-7pm; Sat 10am-6pm
+53,Zacharia-Iyengar Store,"347
+Subramaniam Nagar",Maheshtala,Haryana,-8857785630,Mon-Fri 10am-7pm; Sat 10am-6pm
+54,Wali-Badami Store,"868, Sarna Nagar",Jaipur,Uttarakhand,-1555579798,Mon-Fri 10am-7pm; Sat 10am-6pm
+55,"Sarkar, Edwin and Venkataraman Store","120, Uppal Marg",Bharatpur,Uttar Pradesh,-9.15099E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+56,"Lall, Master and Chand Store","94/659, Shetty Marg",Patna,Telangana,-128365717,Mon-Fri 10am-7pm; Sat 10am-6pm
+57,Dhawan and Sons Store,"464
+Sethi",Guntakal,Tripura,-2923062241,Mon-Fri 10am-7pm; Sat 10am-6pm
+58,"Chana, Bala and Mallick Store","H.No. 506, Shan Marg",Kamarhati,Himachal Pradesh,-222937541,Mon-Fri 10am-7pm; Sat 10am-6pm
+59,Dasgupta-Saini Store,"H.No. 83, Reddy Street",Bikaner,Uttar Pradesh,-7527259801,Mon-Fri 10am-7pm; Sat 10am-6pm
+60,Brahmbhatt LLC Store,"96/029, Vala Circle",Berhampur,Punjab,-1605383359,Mon-Fri 10am-7pm; Sat 10am-6pm
+61,Bassi-Sangha Store,"21, Wason Street",Siwan,Uttar Pradesh,-9.18511E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+62,Kala-Sagar Store,"H.No. 33
+Iyer Street",Srikakulam,Mizoram,-9665781658,Mon-Fri 10am-7pm; Sat 10am-6pm
+63,"Chandran, Chander and Kaul Store","H.No. 38, Vyas Marg",Tiruppur,Rajasthan,-8849432703,Mon-Fri 10am-7pm; Sat 10am-6pm
+64,"Reddy, Garg and Ravel Store","09, Kar Zila",Gorakhpur,Maharashtra,-9.11702E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+65,Rajagopalan-Krishnamurthy Store,"H.No. 613
+Handa Marg",Aurangabad,Andhra Pradesh,-2912791697,Mon-Fri 10am-7pm; Sat 10am-6pm
+66,Gera Inc Store,"07, Sami Street",Singrauli,Odisha,-6094099079,Mon-Fri 10am-7pm; Sat 10am-6pm
+67,Bhardwaj-Bava Store,"50/86
+Mane Chowk",Bidar,Nagaland,-9.1136E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+68,Madan-Shanker Store,"71
+Samra",Howrah,Gujarat,-6441959059,Mon-Fri 10am-7pm; Sat 10am-6pm
+69,Wason-Sachdeva Store,"H.No. 585
+Sagar Marg",Saharsa,Karnataka,-6843385548,Mon-Fri 10am-7pm; Sat 10am-6pm
+70,Ray-Issac Store,"H.No. 752, Vohra Zila",Parbhani,Rajasthan,-1319573976,Mon-Fri 10am-7pm; Sat 10am-6pm
+71,"Sanghvi, Dutta and Shenoy Store","H.No. 538
+Sridhar Marg",Ranchi,Jharkhand,-9039187268,Mon-Fri 10am-7pm; Sat 10am-6pm
+72,Wagle-Dora Store,"30
+Sabharwal Zila",Fatehpur,Manipur,-5349189080,Mon-Fri 10am-7pm; Sat 10am-6pm
+73,"Hora, Setty and Raval Store","H.No. 250
+Bawa Chowk",Darbhanga,Tamil Nadu,-3374333930,Mon-Fri 10am-7pm; Sat 10am-6pm
+74,Rajagopalan and Sons Store,"20/17
+Sarna Marg",Ludhiana,Mizoram,-9.19614E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+75,Ben-Dugar Store,"502
+Chander Path",Shimoga,Tamil Nadu,-267104371,Mon-Fri 10am-7pm; Sat 10am-6pm
+76,Gill-Dixit Store,"43/97
+Kapadia Road",Shivpuri,Manipur,-6831872708,Mon-Fri 10am-7pm; Sat 10am-6pm
+77,Baria LLC Store,"88/080
+Das Nagar",Durg,Madhya Pradesh,-5657194638,Mon-Fri 10am-7pm; Sat 10am-6pm
+78,Kapoor-Wable Store,"96/930
+Shah Nagar",Raebareli,Uttarakhand,-5570528944,Mon-Fri 10am-7pm; Sat 10am-6pm
+79,Bumb-Bhat Store,"21/83, Sangha Marg",Surat,Telangana,-7781522108,Mon-Fri 10am-7pm; Sat 10am-6pm
+80,Madan-Dass Store,"225
+Kaul Marg",Rajpur Sonarpur,Andhra Pradesh,-6713130765,Mon-Fri 10am-7pm; Sat 10am-6pm
+81,"Subramaniam, Shanker and Sekhon Store","H.No. 06
+Sane",Raiganj,Telangana,-6322529494,Mon-Fri 10am-7pm; Sat 10am-6pm
+82,Batra Ltd Store,"105
+Kakar Zila",Srikakulam,Kerala,-9.1362E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+83,Kala and Sons Store,"H.No. 81, Atwal Ganj",Kirari Suleman Nagar,Goa,-9.17335E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+84,Deep Inc Store,"146
+Wable Zila",Bhiwani,Himachal Pradesh,-2362873793,Mon-Fri 10am-7pm; Sat 10am-6pm
+85,Ratta LLC Store,"H.No. 84
+Seshadri Path",Katni,West Bengal,-5501531898,Mon-Fri 10am-7pm; Sat 10am-6pm
+86,"Maharaj, Subramaniam and Goswami Store","173
+Bobal Zila",Jalandhar,Uttarakhand,-8120318087,Mon-Fri 10am-7pm; Sat 10am-6pm
+87,Kuruvilla Group Store,"411, Manne Chowk",Allahabad,Manipur,-9.1154E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+88,Trivedi-Desai Store,"293
+Lata Street",Satna,Chhattisgarh,-4483038759,Mon-Fri 10am-7pm; Sat 10am-6pm
+89,Banik-Vaidya Store,"H.No. 41
+Gour Circle",Bhimavaram,Punjab,-729716063,Mon-Fri 10am-7pm; Sat 10am-6pm
+90,Jaggi-Hayer Store,"96/81, Ravel Nagar",Bangalore,Assam,-9.19008E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+91,Master-Bora Store,"899, Dhaliwal Ganj",Raebareli,Maharashtra,-9.16003E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+92,Ben LLC Store,"19
+Iyer Street",Gwalior,Jharkhand,-9.19094E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+93,Yohannan Inc Store,"769, Sant Marg",Rohtak,Gujarat,-5086953956,Mon-Fri 10am-7pm; Sat 10am-6pm
+94,Bhasin-Kanda Store,"H.No. 331, Loke Zila",Malegaon,Madhya Pradesh,-2052343911,Mon-Fri 10am-7pm; Sat 10am-6pm
+95,Kale-Sunder Store,"02
+Raj Street",Bhiwani,Tripura,-9055293858,Mon-Fri 10am-7pm; Sat 10am-6pm
+96,Chokshi-Grewal Store,"35/95
+Salvi Ganj",Sagar,Haryana,-1555954751,Mon-Fri 10am-7pm; Sat 10am-6pm
+97,"Kant, Dugal and Solanki Store","33/11, Ramaswamy Street",Kolkata,Sikkim,-9.17596E+11,Mon-Fri 10am-7pm; Sat 10am-6pm
+98,Mall LLC Store,"56/435
+Chaudhary Circle",Tirupati,Tamil Nadu,-1298426761,Mon-Fri 10am-7pm; Sat 10am-6pm
+99,Anand-Barad Store,"111
+Sami Nagar",Bhubaneswar,Tamil Nadu,-2704300685,Mon-Fri 10am-7pm; Sat 10am-6pm
+100,Goda LLC Store,"56/263, Chaudhari Chowk",Tirupati,Gujarat,-9090263517,Mon-Fri 10am-7pm; Sat 10am-6pm
