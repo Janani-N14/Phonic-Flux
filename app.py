@@ -3,9 +3,11 @@ import pandas as pd
 from langchain_openai import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
+from flask_ngrok import run_with_ngrok
 
 # Initialize Flask app
 app = Flask(__name__)
+run_with_ngrok(app)
 
 # Load the CSV files into dataframes
 customers = pd.read_csv('data/customers_indian2.csv')
@@ -236,4 +238,4 @@ def chatbot():
 
 # Run the Flask app
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()

@@ -1,0 +1,6 @@
+Flask
+pandas
+langchain-openai
+flask-ngrok
+openai
+Gunicorn
