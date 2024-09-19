@@ -4,3 +4,4 @@ langchain-openai
 flask-ngrok
 openai
 Gunicorn
+langchain
