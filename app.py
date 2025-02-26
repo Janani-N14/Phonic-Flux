@@ -16,7 +16,7 @@ products = pd.read_csv('data/products_indian.csv')
 stores = pd.read_csv('data/stores_indian2.csv')
 
 # Gemini API Key (Replace with your actual Gemini API key)
-gemini_api_key = 'AIzaSyDsBK4F8SDQ-VJ36OGPPhB_eEEZt2DmLCE'
+gemini_api_key = 'XXXXX'
 
 # Initialize Gemini (assuming OpenAI class is used for Gemini)
 llm = OpenAI(temperature=0.5, openai_api_key=gemini_api_key)
